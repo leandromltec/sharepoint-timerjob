@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="Empresa.setor.TimerJob Solicitações de Serviço" Description="TimerJob informa ao responsavel pelo serviço caso a solicitação estaja em atraso e com status em atendimento." Id="5a2f336b-2a75-4164-9ccd-9f27e3c1d705" ReceiverAssembly="Empresa.setor.TimerJob, Version=1.0.0.0, Culture=neutral, PublicKeyToken=624a358b10847fbe" ReceiverClass="Empresa.setor.TimerJobe.Features.TimerJobSolicitacoes.TimerJobSolicitacoesEventReceiver" Scope="WebApplication"></Feature>
